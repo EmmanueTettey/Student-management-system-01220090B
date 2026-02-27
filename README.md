@@ -37,4 +37,4 @@ Create database inside data folder
 
 Name it students.db
 
-If it doesn’t exist → create it automatically
+
